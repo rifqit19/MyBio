@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("Tentang saya")
                 .setIcon(R.drawable.logo)
-                .setMessage("Hobby: Overthinking\n\n" + "Memiliki ketertarikan dengan bidang pengembangan aplikasi mobile. Pekerja keras, kolaboratif, berpikir kreatif, dan suka dengan hal baru")
+                .setMessage("Hobby: Traveling\n\n" + "Memiliki ketertarikan dengan bidang pengembangan aplikasi mobile. Pekerja keras, kolaboratif, berpikir kreatif, dan suka dengan hal baru")
                 .setPositiveButton("Kembali", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
